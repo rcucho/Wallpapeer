@@ -120,6 +120,7 @@
         app:layout_constraintVertical_bias="0.327">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etPasswordReg2"
             android:layout_width="329dp"
             android:layout_height="48dp"
             android:background="@drawable/user_pass_box"
